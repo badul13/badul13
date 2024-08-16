@@ -1,9 +1,9 @@
-<!--타이틀 부분-->
+<!--Title-->
 <div align="center">
   <img src="https://github.com/badul13/badul13/blob/main/READMEimg.jpg"/>
 </div>
 
-<!--내용 부분-->
+<!--Content-->
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -35,4 +35,7 @@
   </a>
 </div>
 
-https://capsule-render.vercel.app/api?type=wave&height=150&color=B2EBF4&text=TaeHyeon%20Jeong&fontAlign=85&fontAlignY=17&fontSize=30&descAlign=54&section=footer&fontColor=D4F4FA
+<!--Footer-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=B2EBF4&text=TaeHyeon%20Jeong&fontAlign=85&fontAlignY=17&fontSize=30&descAlign=54&section=footer&fontColor=D4F4FA"/>
+</div>
