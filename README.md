@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<table style="border-collapse: collapse; width: 100%; border:none;" border="1" data-ke-align="alignLeft">
+<table style="border-collapse: collapse; width: 100%; border:none;">
   <tbody>
     <tr>
       <td style="width: 50%; border:none;">
