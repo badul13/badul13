@@ -46,14 +46,14 @@
   </a>
 </p>
 
-<table style="border-collapse: collapse; width: 100%; border:none;">
+<table>
   <tbody>
     <tr>
-      <td style="width: 50%; border:none;">
+      <td>
         <h1>Hi, there!👋</h1>
         <h3>I'm TaeHyeon Jeong, who is student from South Korea.</h3>
       </td>
-      <td style="width: 50%; border:none;">
+      <td>
           <a href="https://github.com/badul13">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badul13&layout=compact&theme=nord" />
           </a>
