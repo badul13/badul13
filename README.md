@@ -34,3 +34,5 @@
       src="https://img.shields.io/badge/badul13@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+https://capsule-render.vercel.app/api?type=wave&height=150&color=B2EBF4&text=TaeHyeon%20Jeong&fontAlign=85&fontAlignY=17&fontSize=30&descAlign=54&section=footer&fontColor=D4F4FA
