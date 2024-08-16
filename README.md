@@ -40,11 +40,8 @@
 <br><br>
 
 <!--Footer-->
-<p align="center">
-  <a href="https://github.com/badul13">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badul13&layout=compact&theme=nord" />
-  </a>
-</p>
+![badul13's github stats](https://github-readme-stats.vercel.app/api?username=badul13&show_icons=true)
+[![badul13's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=badul13&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/badul13)
 
 <table>
   <tbody>
