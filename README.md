@@ -1,7 +1,7 @@
 <!--Header-->
-<div align="center">
-  <h3>Hi, there!👋</h3>
-  <h5>I'm TaeHyeon Jeong, a student from South Korea.</h5>
+<div align="left">
+  <h1>Hi, there!👋</h3>
+  <h3>I'm TaeHyeon Jeong, a student from South Korea.</h5>
 </div>
 
 <hr>
