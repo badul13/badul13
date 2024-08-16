@@ -1,10 +1,4 @@
-<!--Header-->
-<div align="left">
-  <h1>Hi, there!👋</h3>
-  <h3>I'm TaeHyeon Jeong, a student from South Korea.</h5>
-</div>
 
-<hr>
 
 <!--Title-->
 <div align="center">
