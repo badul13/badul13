@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="[[https://github.com/badul13/badul13/img.jpg]()](https://github.com/badul13/badul13/blob/main/img.jpg)" />
+  <img src="https://github.com/badul13/badul13/blob/main/img.jpg"/>
 </div>
 
 <!--내용 부분-->
