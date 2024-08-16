@@ -1,3 +1,11 @@
+<!--Header-->
+<div align="center">
+  <h3>Hi, there!👋</h3>
+  <h5>I'm TaeHyeon Jeong, a student from South Korea.</h5>
+</div>
+
+<hr>
+
 <!--Title-->
 <div align="center">
   <img src="https://github.com/badul13/badul13/blob/main/READMEimg.jpg"/>
@@ -37,6 +45,7 @@
 
 <br><br>
 
+<!--Footer-->
 <p align="center">
   <a href="https://github.com/badul13">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badul13&layout=compact&theme=nord" />
