@@ -37,5 +37,5 @@
 
 <!--Footer-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B2EBF4&text=TaeHyeon%20Jeong&fontAlign=85&fontAlignY=17&fontSize=30&descAlign=54&section=footer&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=E6FFFF&text=TaeHyeon%20Jeong&fontAlign=87&fontAlignY=84&fontSize=25&descAlign=54&section=footer&fontColor=ffffff"/>
 </div>
