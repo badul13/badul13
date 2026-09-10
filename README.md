@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/badul13/badul13/main/header.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/badul13/badul13/main/header.gif" width="100%" alt="" />
 </div>
 
 <h1 align="center">정태현 · Taehyeon Jeong</h1>
